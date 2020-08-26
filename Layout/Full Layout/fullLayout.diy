@@ -18,10 +18,10 @@
       <value></value>
       <controlPoints>
         <point x="7.3" y="4.5"/>
-        <point x="21.0" y="7.6"/>
+        <point x="20.9" y="7.6"/>
       </controlPoints>
       <firstPoint x="7.3" y="4.5"/>
-      <secondPoint x="21.0" y="7.6"/>
+      <secondPoint x="20.9" y="7.6"/>
       <boardColor hex="f8ebb3"/>
       <borderColor hex="ada47d"/>
       <coordinateColor hex="b6b6b6"/>
@@ -311,7 +311,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="16.5" y="7.4"/>
+      <point x="16.4" y="7.4"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -319,7 +319,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="17.9" y="7.3"/>
+      <point x="17.8" y="7.3"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -327,7 +327,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="18.3" y="7.0"/>
+      <point x="18.2" y="7.0"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -335,7 +335,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="18.6" y="6.1"/>
+      <point x="18.5" y="6.1"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -343,7 +343,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="18.0" y="6.1"/>
+      <point x="17.9" y="6.1"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -351,7 +351,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="18.0" y="5.4"/>
+      <point x="17.9" y="5.4"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -359,7 +359,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="18.6" y="5.4"/>
+      <point x="18.5" y="5.4"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -367,7 +367,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="17.3" y="5.3"/>
+      <point x="17.2" y="5.3"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -375,7 +375,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="17.3" y="6.2"/>
+      <point x="17.2" y="6.2"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -383,7 +383,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="16.8" y="5.2"/>
+      <point x="16.7" y="5.2"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -391,7 +391,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="16.8" y="6.3"/>
+      <point x="16.7" y="6.3"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -399,7 +399,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="16.1" y="6.3"/>
+      <point x="16.0" y="6.3"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -415,7 +415,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="16.1" y="5.2"/>
+      <point x="16.0" y="5.2"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -423,7 +423,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="19.0" y="6.2"/>
+      <point x="18.9" y="6.2"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -431,7 +431,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="19.0" y="7.3"/>
+      <point x="18.9" y="7.3"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -439,7 +439,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="19.4" y="6.3"/>
+      <point x="19.3" y="6.3"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -447,7 +447,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="19.4" y="5.6"/>
+      <point x="19.3" y="5.6"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -455,7 +455,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="19.0" y="5.3"/>
+      <point x="18.9" y="5.3"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -463,7 +463,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="18.9" y="4.8"/>
+      <point x="18.8" y="4.8"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -471,7 +471,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="19.4" y="4.8"/>
+      <point x="19.3" y="4.8"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -479,7 +479,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="19.9" y="5.1"/>
+      <point x="19.8" y="5.1"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -487,7 +487,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="20.4" y="5.1"/>
+      <point x="20.3" y="5.1"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -495,7 +495,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="20.8" y="5.5"/>
+      <point x="20.7" y="5.5"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -503,7 +503,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="20.8" y="6.2"/>
+      <point x="20.7" y="6.2"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -511,7 +511,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="20.8" y="7.1"/>
+      <point x="20.7" y="7.1"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -519,7 +519,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="20.4" y="7.1"/>
+      <point x="20.3" y="7.1"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -527,7 +527,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="20.4" y="6.2"/>
+      <point x="20.3" y="6.2"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -535,7 +535,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="19.9" y="6.5"/>
+      <point x="19.8" y="6.5"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -543,7 +543,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="19.4" y="7.1"/>
+      <point x="19.3" y="7.1"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -559,7 +559,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="17.3" y="7.3"/>
+      <point x="17.2" y="7.3"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.misc.Image>
@@ -39917,9 +39917,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="10.0" unit="mm"/>
       <width value="3.5" unit="mm"/>
       <points>
-        <point x="16.1" y="6.3"/>
-        <point x="16.5" y="7.4"/>
-        <point x="15.915" y="10.6"/>
+        <point x="16.0" y="6.3"/>
+        <point x="16.4" y="7.4"/>
+        <point x="15.815" y="10.6"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -39941,9 +39941,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="10.0" unit="mm"/>
       <width value="3.5" unit="mm"/>
       <points>
-        <point x="16.8" y="6.3"/>
-        <point x="16.5" y="7.4"/>
-        <point x="12.795" y="9.565"/>
+        <point x="16.7" y="6.3"/>
+        <point x="16.4" y="7.4"/>
+        <point x="12.695" y="9.565"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -39965,9 +39965,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="10.0" unit="mm"/>
       <width value="3.5" unit="mm"/>
       <points>
-        <point x="16.8" y="5.2"/>
-        <point x="16.8" y="6.3"/>
-        <point x="12.865" y="6.26"/>
+        <point x="16.7" y="5.2"/>
+        <point x="16.7" y="6.3"/>
+        <point x="12.765" y="6.26"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -39989,9 +39989,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="10.0" unit="mm"/>
       <width value="3.5" unit="mm"/>
       <points>
-        <point x="16.8" y="5.2"/>
-        <point x="16.1" y="6.3"/>
-        <point x="15.89" y="3.76"/>
+        <point x="16.7" y="5.2"/>
+        <point x="16.0" y="6.3"/>
+        <point x="15.79" y="3.76"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -40013,9 +40013,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="0.82" unit="in"/>
       <width value="0.38" unit="in"/>
       <points>
-        <point x="16.8" y="5.2"/>
-        <point x="16.1" y="5.2"/>
-        <point x="16.45" y="5.2"/>
+        <point x="16.7" y="5.2"/>
+        <point x="16.0" y="5.2"/>
+        <point x="16.35" y="5.2"/>
       </points>
       <bodyColor hex="ff4500"/>
       <borderColor hex="381d02"/>
@@ -40039,9 +40039,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="10.0" unit="mm"/>
       <width value="3.5" unit="mm"/>
       <points>
-        <point x="17.3" y="7.3"/>
-        <point x="17.3" y="6.2"/>
-        <point x="17.595" y="5.15"/>
+        <point x="17.2" y="7.3"/>
+        <point x="17.2" y="6.2"/>
+        <point x="17.495" y="5.15"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -40063,9 +40063,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="10.0" unit="mm"/>
       <width value="3.5" unit="mm"/>
       <points>
-        <point x="17.3" y="6.2"/>
-        <point x="17.3" y="5.3"/>
-        <point x="16.22" y="3.29"/>
+        <point x="17.2" y="6.2"/>
+        <point x="17.2" y="5.3"/>
+        <point x="16.12" y="3.29"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -40085,10 +40085,10 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <name></name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="17.3" y="6.2"/>
-        <point x="17.3" y="6.2"/>
-        <point x="17.1" y="6.3"/>
-        <point x="17.1" y="6.595"/>
+        <point x="17.2" y="6.2"/>
+        <point x="17.2" y="6.2"/>
+        <point x="17.0" y="6.3"/>
+        <point x="17.0" y="6.595"/>
       </controlPoints2>
       <color hex="cccccc"/>
       <pointCount>FOUR</pointCount>
@@ -40103,10 +40103,10 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <name></name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="17.3" y="7.3"/>
-        <point x="17.3" y="7.3"/>
-        <point x="17.1" y="7.3"/>
-        <point x="17.1" y="7.105"/>
+        <point x="17.2" y="7.3"/>
+        <point x="17.2" y="7.3"/>
+        <point x="17.0" y="7.3"/>
+        <point x="17.0" y="7.105"/>
       </controlPoints2>
       <color hex="cccccc"/>
       <pointCount>FOUR</pointCount>
@@ -40123,9 +40123,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="0.5" unit="in"/>
       <width value="0.2" unit="in"/>
       <points>
-        <point x="17.1" y="7.105"/>
-        <point x="17.1" y="6.595"/>
-        <point x="17.1" y="6.85"/>
+        <point x="17.0" y="7.105"/>
+        <point x="17.0" y="6.595"/>
+        <point x="17.0" y="6.85"/>
       </points>
       <bodyColor hex="3399ff"/>
       <borderColor hex="4a4c90"/>
@@ -40147,10 +40147,10 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <name></name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="17.3" y="6.2"/>
-        <point x="17.3" y="6.2"/>
-        <point x="17.1" y="6.2"/>
-        <point x="17.1" y="5.955"/>
+        <point x="17.2" y="6.2"/>
+        <point x="17.2" y="6.2"/>
+        <point x="17.0" y="6.2"/>
+        <point x="17.0" y="5.955"/>
       </controlPoints2>
       <color hex="cccccc"/>
       <pointCount>FOUR</pointCount>
@@ -40165,10 +40165,10 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <name></name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="17.3" y="5.3"/>
-        <point x="17.3" y="5.295"/>
-        <point x="17.1" y="5.3"/>
-        <point x="17.1" y="5.445"/>
+        <point x="17.2" y="5.3"/>
+        <point x="17.2" y="5.295"/>
+        <point x="17.0" y="5.3"/>
+        <point x="17.0" y="5.445"/>
       </controlPoints2>
       <color hex="cccccc"/>
       <pointCount>FOUR</pointCount>
@@ -40185,9 +40185,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="0.5" unit="in"/>
       <width value="0.2" unit="in"/>
       <points>
-        <point x="17.1" y="5.445"/>
-        <point x="17.1" y="5.955"/>
-        <point x="17.1" y="5.7"/>
+        <point x="17.0" y="5.445"/>
+        <point x="17.0" y="5.955"/>
+        <point x="17.0" y="5.7"/>
       </points>
       <bodyColor hex="3399ff"/>
       <borderColor hex="4a4c90"/>
@@ -40211,9 +40211,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="10.0" unit="mm"/>
       <width value="3.5" unit="mm"/>
       <points>
-        <point x="17.9" y="7.3"/>
-        <point x="17.3" y="6.2"/>
-        <point x="15.475" y="5.11"/>
+        <point x="17.8" y="7.3"/>
+        <point x="17.2" y="6.2"/>
+        <point x="15.375" y="5.11"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -40233,10 +40233,10 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <name></name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="17.3" y="6.2"/>
-        <point x="17.3" y="6.2"/>
-        <point x="17.5" y="6.2"/>
-        <point x="17.68" y="6.425"/>
+        <point x="17.2" y="6.2"/>
+        <point x="17.2" y="6.2"/>
+        <point x="17.4" y="6.2"/>
+        <point x="17.58" y="6.425"/>
       </controlPoints2>
       <color hex="cccccc"/>
       <pointCount>FOUR</pointCount>
@@ -40251,10 +40251,10 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <name></name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="17.9" y="7.3"/>
-        <point x="17.88" y="7.365"/>
-        <point x="18.0" y="7.2"/>
-        <point x="17.92" y="6.875"/>
+        <point x="17.8" y="7.3"/>
+        <point x="17.78" y="7.365"/>
+        <point x="17.9" y="7.2"/>
+        <point x="17.82" y="6.875"/>
       </controlPoints2>
       <color hex="cccccc"/>
       <pointCount>FOUR</pointCount>
@@ -40271,9 +40271,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="12.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="17.92" y="6.875"/>
-        <point x="17.68" y="6.425"/>
-        <point x="17.8" y="6.65"/>
+        <point x="17.82" y="6.875"/>
+        <point x="17.58" y="6.425"/>
+        <point x="17.7" y="6.65"/>
       </points>
       <bodyColor hex="3399ff"/>
       <borderColor hex="4a4c90"/>
@@ -40297,9 +40297,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="10.0" unit="mm"/>
       <width value="3.5" unit="mm"/>
       <points>
-        <point x="18.6" y="6.1"/>
-        <point x="18.3" y="7.0"/>
-        <point x="14.555" y="5.79"/>
+        <point x="18.5" y="6.1"/>
+        <point x="18.2" y="7.0"/>
+        <point x="14.455" y="5.79"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -40321,9 +40321,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="10.0" unit="mm"/>
       <width value="3.5" unit="mm"/>
       <points>
-        <point x="18.0" y="6.1"/>
-        <point x="18.3" y="7.0"/>
-        <point x="16.445" y="10.95"/>
+        <point x="17.9" y="6.1"/>
+        <point x="18.2" y="7.0"/>
+        <point x="16.345" y="10.95"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -40345,9 +40345,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="0.64" unit="in"/>
       <width value="0.3" unit="in"/>
       <points>
-        <point x="18.0" y="5.4"/>
-        <point x="18.0" y="6.1"/>
-        <point x="18.0" y="5.75"/>
+        <point x="17.9" y="5.4"/>
+        <point x="17.9" y="6.1"/>
+        <point x="17.9" y="5.75"/>
       </points>
       <bodyColor hex="ff4500"/>
       <borderColor hex="381d02"/>
@@ -40371,9 +40371,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="0.66" unit="in"/>
       <width value="0.3" unit="in"/>
       <points>
-        <point x="18.6" y="5.4"/>
-        <point x="18.6" y="6.1"/>
-        <point x="18.6" y="5.75"/>
+        <point x="18.5" y="5.4"/>
+        <point x="18.5" y="6.1"/>
+        <point x="18.5" y="5.75"/>
       </points>
       <bodyColor hex="ff4500"/>
       <borderColor hex="381d02"/>
@@ -40397,9 +40397,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="10.0" unit="mm"/>
       <width value="3.5" unit="mm"/>
       <points>
-        <point x="19.0" y="7.3"/>
-        <point x="19.0" y="6.2"/>
-        <point x="17.915" y="4.395"/>
+        <point x="18.9" y="7.3"/>
+        <point x="18.9" y="6.2"/>
+        <point x="17.815" y="4.395"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -40419,10 +40419,10 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <name>W1</name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="19.0" y="6.2"/>
-        <point x="19.0" y="6.215"/>
-        <point x="18.8" y="6.2"/>
-        <point x="18.8" y="6.495"/>
+        <point x="18.9" y="6.2"/>
+        <point x="18.9" y="6.215"/>
+        <point x="18.7" y="6.2"/>
+        <point x="18.7" y="6.495"/>
       </controlPoints2>
       <color hex="cccccc"/>
       <pointCount>FOUR</pointCount>
@@ -40437,10 +40437,10 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <name>W2</name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="19.0" y="7.3"/>
-        <point x="19.0" y="7.285"/>
-        <point x="18.8" y="7.3"/>
-        <point x="18.8" y="7.005"/>
+        <point x="18.9" y="7.3"/>
+        <point x="18.9" y="7.285"/>
+        <point x="18.7" y="7.3"/>
+        <point x="18.7" y="7.005"/>
       </controlPoints2>
       <color hex="cccccc"/>
       <pointCount>FOUR</pointCount>
@@ -40457,9 +40457,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="0.5" unit="in"/>
       <width value="0.2" unit="in"/>
       <points>
-        <point x="18.8" y="7.005"/>
-        <point x="18.8" y="6.495"/>
-        <point x="19.045" y="4.385"/>
+        <point x="18.7" y="7.005"/>
+        <point x="18.7" y="6.495"/>
+        <point x="18.945" y="4.385"/>
       </points>
       <bodyColor hex="3399ff"/>
       <borderColor hex="4a4c90"/>
@@ -40483,9 +40483,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="10.0" unit="mm"/>
       <width value="3.5" unit="mm"/>
       <points>
-        <point x="19.0" y="6.205"/>
-        <point x="19.0" y="5.305"/>
-        <point x="16.99" y="4.54"/>
+        <point x="18.9" y="6.205"/>
+        <point x="18.9" y="5.305"/>
+        <point x="16.89" y="4.54"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -40505,10 +40505,10 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <name>W3</name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="19.0" y="6.205"/>
-        <point x="19.0" y="6.21"/>
-        <point x="18.8" y="6.205"/>
-        <point x="18.8" y="5.96"/>
+        <point x="18.9" y="6.205"/>
+        <point x="18.9" y="6.21"/>
+        <point x="18.7" y="6.205"/>
+        <point x="18.7" y="5.96"/>
       </controlPoints2>
       <color hex="cccccc"/>
       <pointCount>FOUR</pointCount>
@@ -40523,10 +40523,10 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <name>W4</name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="19.0" y="5.305"/>
-        <point x="19.0" y="5.3"/>
-        <point x="18.8" y="5.3"/>
-        <point x="18.8" y="5.45"/>
+        <point x="18.9" y="5.305"/>
+        <point x="18.9" y="5.3"/>
+        <point x="18.7" y="5.3"/>
+        <point x="18.7" y="5.45"/>
       </controlPoints2>
       <color hex="cccccc"/>
       <pointCount>FOUR</pointCount>
@@ -40543,9 +40543,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="0.5" unit="in"/>
       <width value="0.2" unit="in"/>
       <points>
-        <point x="18.8" y="5.45"/>
-        <point x="18.8" y="5.96"/>
-        <point x="19.045" y="7.925"/>
+        <point x="18.7" y="5.45"/>
+        <point x="18.7" y="5.96"/>
+        <point x="18.945" y="7.925"/>
       </points>
       <bodyColor hex="3399ff"/>
       <borderColor hex="4a4c90"/>
@@ -40569,9 +40569,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="10.0" unit="mm"/>
       <width value="3.5" unit="mm"/>
       <points>
-        <point x="18.9" y="4.8"/>
-        <point x="19.4" y="4.8"/>
-        <point x="22.055" y="9.12"/>
+        <point x="18.8" y="4.8"/>
+        <point x="19.3" y="4.8"/>
+        <point x="21.955" y="9.12"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -40593,9 +40593,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="10.0" unit="mm"/>
       <width value="3.5" unit="mm"/>
       <points>
-        <point x="19.4" y="4.8"/>
-        <point x="19.4" y="5.6"/>
-        <point x="17.975" y="8.635"/>
+        <point x="19.3" y="4.8"/>
+        <point x="19.3" y="5.6"/>
+        <point x="17.875" y="8.635"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -40617,9 +40617,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="0.64" unit="in"/>
       <width value="0.3" unit="in"/>
       <points>
-        <point x="19.9" y="6.5"/>
-        <point x="20.4" y="7.1"/>
-        <point x="20.15" y="6.8"/>
+        <point x="19.8" y="6.5"/>
+        <point x="20.3" y="7.1"/>
+        <point x="20.05" y="6.8"/>
       </points>
       <bodyColor hex="ff4500"/>
       <borderColor hex="381d02"/>
@@ -40643,9 +40643,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="14.27" unit="mm"/>
       <width value="4.57" unit="mm"/>
       <points>
-        <point x="19.4" y="7.1"/>
-        <point x="19.4" y="6.3"/>
-        <point x="17.705" y="4.785"/>
+        <point x="19.3" y="7.1"/>
+        <point x="19.3" y="6.3"/>
+        <point x="17.605" y="4.785"/>
       </points>
       <bodyColor hex="996600"/>
       <borderColor hex="663300"/>
@@ -40667,9 +40667,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="14.27" unit="mm"/>
       <width value="4.57" unit="mm"/>
       <points>
-        <point x="19.4" y="7.1"/>
-        <point x="20.4" y="7.1"/>
-        <point x="21.445" y="5.85"/>
+        <point x="19.3" y="7.1"/>
+        <point x="20.3" y="7.1"/>
+        <point x="21.345" y="5.85"/>
       </points>
       <bodyColor hex="996600"/>
       <borderColor hex="663300"/>
@@ -40691,9 +40691,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="0.82" unit="in"/>
       <width value="0.38" unit="in"/>
       <points>
-        <point x="19.4" y="5.6"/>
-        <point x="19.4" y="6.3"/>
-        <point x="19.4" y="5.95"/>
+        <point x="19.3" y="5.6"/>
+        <point x="19.3" y="6.3"/>
+        <point x="19.3" y="5.95"/>
       </points>
       <bodyColor hex="ff4500"/>
       <borderColor hex="381d02"/>
@@ -40717,9 +40717,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="8.74" unit="mm"/>
       <width value="3.68" unit="mm"/>
       <points>
-        <point x="20.8" y="7.1"/>
-        <point x="20.8" y="6.2"/>
-        <point x="19.105" y="4.735"/>
+        <point x="20.7" y="7.1"/>
+        <point x="20.7" y="6.2"/>
+        <point x="19.005" y="4.735"/>
       </points>
       <bodyColor hex="996600"/>
       <borderColor hex="663300"/>
@@ -40739,10 +40739,10 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <name></name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="20.8" y="6.2"/>
-        <point x="20.8" y="6.265"/>
-        <point x="20.6" y="6.3"/>
-        <point x="20.6" y="6.445"/>
+        <point x="20.7" y="6.2"/>
+        <point x="20.7" y="6.265"/>
+        <point x="20.5" y="6.3"/>
+        <point x="20.5" y="6.445"/>
       </controlPoints2>
       <color hex="cccccc"/>
       <pointCount>FOUR</pointCount>
@@ -40757,10 +40757,10 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <name></name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="20.8" y="7.1"/>
-        <point x="20.8" y="7.135"/>
-        <point x="20.6" y="7.1"/>
-        <point x="20.6" y="6.955"/>
+        <point x="20.7" y="7.1"/>
+        <point x="20.7" y="7.135"/>
+        <point x="20.5" y="7.1"/>
+        <point x="20.5" y="6.955"/>
       </controlPoints2>
       <color hex="cccccc"/>
       <pointCount>FOUR</pointCount>
@@ -40777,9 +40777,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="0.5" unit="in"/>
       <width value="0.2" unit="in"/>
       <points>
-        <point x="20.6" y="6.955"/>
-        <point x="20.6" y="6.445"/>
-        <point x="20.6" y="6.7"/>
+        <point x="20.5" y="6.955"/>
+        <point x="20.5" y="6.445"/>
+        <point x="20.5" y="6.7"/>
       </points>
       <bodyColor hex="3399ff"/>
       <borderColor hex="4a4c90"/>
@@ -40803,9 +40803,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="8.74" unit="mm"/>
       <width value="3.68" unit="mm"/>
       <points>
-        <point x="20.8" y="6.2"/>
-        <point x="20.8" y="5.5"/>
-        <point x="19.505" y="3.69"/>
+        <point x="20.7" y="6.2"/>
+        <point x="20.7" y="5.5"/>
+        <point x="19.405" y="3.69"/>
       </points>
       <bodyColor hex="996600"/>
       <borderColor hex="663300"/>
@@ -40827,9 +40827,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="10.0" unit="mm"/>
       <width value="3.5" unit="mm"/>
       <points>
-        <point x="20.4" y="6.2"/>
-        <point x="20.4" y="7.1"/>
-        <point x="19.895" y="5.675"/>
+        <point x="20.3" y="6.2"/>
+        <point x="20.3" y="7.1"/>
+        <point x="19.795" y="5.675"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -40851,9 +40851,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="1.13" unit="in"/>
       <width value="0.46" unit="in"/>
       <points>
-        <point x="20.4" y="5.1"/>
-        <point x="20.4" y="6.2"/>
-        <point x="20.4" y="5.65"/>
+        <point x="20.3" y="5.1"/>
+        <point x="20.3" y="6.2"/>
+        <point x="20.3" y="5.65"/>
       </points>
       <bodyColor hex="ff4500"/>
       <borderColor hex="381d02"/>
@@ -40877,9 +40877,9 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <length value="0.5" unit="in"/>
       <width value="0.2" unit="in"/>
       <points>
-        <point x="20.6" y="5.58"/>
-        <point x="20.6" y="6.09"/>
-        <point x="20.35" y="9.825"/>
+        <point x="20.5" y="5.58"/>
+        <point x="20.5" y="6.09"/>
+        <point x="20.25" y="9.825"/>
       </points>
       <bodyColor hex="3399ff"/>
       <borderColor hex="4a4c90"/>
@@ -40901,10 +40901,10 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <name>W5</name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="20.8" y="5.5"/>
-        <point x="20.8" y="5.5"/>
         <point x="20.7" y="5.5"/>
-        <point x="20.6" y="5.58"/>
+        <point x="20.7" y="5.5"/>
+        <point x="20.6" y="5.5"/>
+        <point x="20.5" y="5.58"/>
       </controlPoints2>
       <color hex="cccccc"/>
       <pointCount>FOUR</pointCount>
@@ -40919,10 +40919,10 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <name>W6</name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="20.8" y="6.2"/>
-        <point x="20.8" y="6.2"/>
         <point x="20.7" y="6.2"/>
-        <point x="20.6" y="6.09"/>
+        <point x="20.7" y="6.2"/>
+        <point x="20.6" y="6.2"/>
+        <point x="20.5" y="6.09"/>
       </controlPoints2>
       <color hex="cccccc"/>
       <pointCount>FOUR</pointCount>
@@ -40937,10 +40937,10 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <name></name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="20.4" y="6.2"/>
-        <point x="20.3" y="6.3"/>
+        <point x="20.3" y="6.2"/>
         <point x="20.2" y="6.3"/>
-        <point x="19.9" y="6.2"/>
+        <point x="20.1" y="6.3"/>
+        <point x="19.8" y="6.2"/>
       </controlPoints2>
       <color hex="cccccc"/>
       <pointCount>FOUR</pointCount>
@@ -40954,12 +40954,12 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.RadialFilmCapacitor>
       <name>400v</name>
       <alpha>127</alpha>
-      <length value="1.16" unit="in"/>
-      <width value="0.65" unit="in"/>
+      <length value="20.3" unit="mm"/>
+      <width value="13.2" unit="mm"/>
       <points>
-        <point x="19.9" y="5.1"/>
-        <point x="19.9" y="6.2"/>
-        <point x="19.9" y="5.655"/>
+        <point x="19.8" y="5.1"/>
+        <point x="19.8" y="6.2"/>
+        <point x="19.8" y="5.655"/>
       </points>
       <bodyColor hex="ff4500"/>
       <borderColor hex="381d02"/>
