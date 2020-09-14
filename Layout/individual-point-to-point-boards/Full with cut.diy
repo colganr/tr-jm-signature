@@ -2,7 +2,7 @@
 <project>
   <fileVersion>
     <major>4</major>
-    <minor>7</minor>
+    <minor>8</minor>
     <build>0</build>
   </fileVersion>
   <title>JM with cut</title>
@@ -463,7 +463,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="11.6" y="0.3"/>
+      <point x="11.3" y="0.3"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -2196,9 +2196,9 @@
       <length value="10.0" unit="mm"/>
       <width value="3.5" unit="mm"/>
       <points>
-        <point x="11.6" y="0.3"/>
+        <point x="11.3" y="0.3"/>
         <point x="12.1" y="0.3"/>
-        <point x="14.755" y="4.62"/>
+        <point x="14.605" y="4.62"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>

@@ -2,7 +2,7 @@
 <project>
   <fileVersion>
     <major>4</major>
-    <minor>7</minor>
+    <minor>8</minor>
     <build>0</build>
   </fileVersion>
   <title>New Project</title>
@@ -463,7 +463,7 @@
       <size value="0.2" unit="in"/>
       <holeSize value="0.1" unit="in"/>
       <color hex="c3e4ed"/>
-      <point x="18.8" y="4.8"/>
+      <point x="18.6" y="4.8"/>
       <value></value>
     </diylc.connectivity.Eyelet>
     <diylc.connectivity.Eyelet>
@@ -39302,7 +39302,7 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R4</name>
       <alpha>127</alpha>
-      <length value="12.7" unit="mm"/>
+      <length value="15.8" unit="mm"/>
       <width value="4.6" unit="mm"/>
       <points>
         <point x="10.7" y="7.2"/>
@@ -39326,8 +39326,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R5</name>
       <alpha>127</alpha>
-      <length value="9.0" unit="mm"/>
-      <width value="3.2" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="11.6" y="7.2"/>
         <point x="12.5" y="7.2"/>
@@ -39548,8 +39548,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R2</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="15.1" y="6.7"/>
         <point x="14.7" y="7.4"/>
@@ -39572,8 +39572,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R3</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="14.1" y="6.7"/>
         <point x="13.7" y="7.4"/>
@@ -39596,8 +39596,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R4</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="13.3" y="6.7"/>
         <point x="13.7" y="7.4"/>
@@ -39620,8 +39620,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R5</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="13.3" y="5.4"/>
         <point x="13.7" y="6.1"/>
@@ -39644,8 +39644,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R6</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="14.1" y="5.4"/>
         <point x="13.7" y="6.1"/>
@@ -39694,8 +39694,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R8</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="15.1" y="4.8"/>
         <point x="15.1" y="5.7"/>
@@ -39718,8 +39718,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R1</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="15.1" y="7.4"/>
         <point x="15.1" y="6.7"/>
@@ -39779,7 +39779,7 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <name>63V</name>
       <alpha>127</alpha>
       <length value="10.0" unit="mm"/>
-      <width value="5.4" unit="mm"/>
+      <width value="4.5" unit="mm"/>
       <points>
         <point x="15.3" y="5.505"/>
         <point x="15.3" y="4.995"/>
@@ -39804,8 +39804,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R10</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="9.02" unit="mm"/>
+      <width value="3.76" unit="mm"/>
       <points>
         <point x="15.1" y="6.7"/>
         <point x="15.1" y="5.7"/>
@@ -39890,8 +39890,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R9</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="15.1" y="6.7"/>
         <point x="15.6" y="7.4"/>
@@ -39914,8 +39914,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R11</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="16.0" y="6.3"/>
         <point x="16.4" y="7.4"/>
@@ -39938,8 +39938,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R12</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="16.7" y="6.3"/>
         <point x="16.4" y="7.4"/>
@@ -39962,8 +39962,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R13</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="16.7" y="5.2"/>
         <point x="16.7" y="6.3"/>
@@ -39986,8 +39986,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R14</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="16.7" y="5.2"/>
         <point x="16.0" y="6.3"/>
@@ -40036,8 +40036,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R15</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="17.2" y="7.3"/>
         <point x="17.2" y="6.2"/>
@@ -40060,8 +40060,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R16</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="17.2" y="6.2"/>
         <point x="17.2" y="5.3"/>
@@ -40120,8 +40120,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.AxialElectrolyticCapacitor>
       <name>63V</name>
       <alpha>127</alpha>
-      <length value="0.5" unit="in"/>
-      <width value="0.2" unit="in"/>
+      <length value="10.0" unit="mm"/>
+      <width value="4.5" unit="mm"/>
       <points>
         <point x="17.0" y="7.105"/>
         <point x="17.0" y="6.595"/>
@@ -40182,8 +40182,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.AxialElectrolyticCapacitor>
       <name>63V</name>
       <alpha>127</alpha>
-      <length value="0.5" unit="in"/>
-      <width value="0.2" unit="in"/>
+      <length value="10.0" unit="mm"/>
+      <width value="4.5" unit="mm"/>
       <points>
         <point x="17.0" y="5.445"/>
         <point x="17.0" y="5.955"/>
@@ -40208,8 +40208,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R17</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="17.8" y="7.3"/>
         <point x="17.2" y="6.2"/>
@@ -40268,8 +40268,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.AxialElectrolyticCapacitor>
       <name>63v</name>
       <alpha>127</alpha>
-      <length value="12.0" unit="mm"/>
-      <width value="5.0" unit="mm"/>
+      <length value="10.0" unit="mm"/>
+      <width value="4.5" unit="mm"/>
       <points>
         <point x="17.82" y="6.875"/>
         <point x="17.58" y="6.425"/>
@@ -40294,8 +40294,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R18</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="18.5" y="6.1"/>
         <point x="18.2" y="7.0"/>
@@ -40318,8 +40318,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R19</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="17.9" y="6.1"/>
         <point x="18.2" y="7.0"/>
@@ -40394,8 +40394,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R20</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="18.9" y="7.3"/>
         <point x="18.9" y="6.2"/>
@@ -40452,10 +40452,10 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <stripeColor hex="ffff00"/>
     </diylc.connectivity.HookupWire>
     <diylc.passive.AxialElectrolyticCapacitor>
-      <name>C9</name>
+      <name>63v</name>
       <alpha>127</alpha>
-      <length value="0.5" unit="in"/>
-      <width value="0.2" unit="in"/>
+      <length value="10.0" unit="mm"/>
+      <width value="4.5" unit="mm"/>
       <points>
         <point x="18.7" y="7.005"/>
         <point x="18.7" y="6.495"/>
@@ -40480,8 +40480,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R21</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="18.9" y="6.205"/>
         <point x="18.9" y="5.305"/>
@@ -40538,10 +40538,10 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <stripeColor hex="ffff00"/>
     </diylc.connectivity.HookupWire>
     <diylc.passive.AxialElectrolyticCapacitor>
-      <name>C10</name>
+      <name>63v</name>
       <alpha>127</alpha>
-      <length value="0.5" unit="in"/>
-      <width value="0.2" unit="in"/>
+      <length value="10.0" unit="mm"/>
+      <width value="4.5" unit="mm"/>
       <points>
         <point x="18.7" y="5.45"/>
         <point x="18.7" y="5.96"/>
@@ -40566,12 +40566,12 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R22</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
-        <point x="18.8" y="4.8"/>
+        <point x="18.6" y="4.8"/>
         <point x="19.3" y="4.8"/>
-        <point x="21.955" y="9.12"/>
+        <point x="21.855" y="9.12"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -40590,8 +40590,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R23</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="19.3" y="4.8"/>
         <point x="19.3" y="5.6"/>
@@ -40730,7 +40730,7 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <labelOriantation>Directional</labelOriantation>
       <moveLabel>false</moveLabel>
       <hideShortLeads>false</hideShortLeads>
-      <value value="1.5" unit="K"/>
+      <value value="1.54" unit="K"/>
       <power>HALF</power>
       <colorCode>NONE</colorCode>
       <shape>Tubular</shape>
@@ -40774,8 +40774,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.AxialElectrolyticCapacitor>
       <name>63v</name>
       <alpha>127</alpha>
-      <length value="0.5" unit="in"/>
-      <width value="0.2" unit="in"/>
+      <length value="10.0" unit="mm"/>
+      <width value="4.5" unit="mm"/>
       <points>
         <point x="20.5" y="6.955"/>
         <point x="20.5" y="6.445"/>
@@ -40816,7 +40816,7 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <labelOriantation>Directional</labelOriantation>
       <moveLabel>false</moveLabel>
       <hideShortLeads>false</hideShortLeads>
-      <value value="1.5" unit="K"/>
+      <value value="1.54" unit="K"/>
       <power>HALF</power>
       <colorCode>NONE</colorCode>
       <shape>Tubular</shape>
@@ -40824,8 +40824,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R25</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="20.3" y="6.2"/>
         <point x="20.3" y="7.1"/>
@@ -40872,10 +40872,10 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <pinSpacing value="0.1" unit="in"/>
     </diylc.passive.RadialFilmCapacitor>
     <diylc.passive.AxialElectrolyticCapacitor>
-      <name>C13</name>
+      <name>63v</name>
       <alpha>127</alpha>
-      <length value="0.5" unit="in"/>
-      <width value="0.2" unit="in"/>
+      <length value="10.0" unit="mm"/>
+      <width value="4.5" unit="mm"/>
       <points>
         <point x="20.5" y="5.58"/>
         <point x="20.5" y="6.09"/>
@@ -40989,8 +40989,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R24</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="10.2" y="8.9"/>
         <point x="9.9" y="9.6"/>
@@ -41013,8 +41013,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R26</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="12.2" y="8.9"/>
         <point x="11.9" y="9.6"/>
@@ -41037,8 +41037,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R27</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="7.3" y="8.8"/>
         <point x="7.0" y="9.5"/>
@@ -41061,8 +41061,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R28</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="5.2" y="8.9"/>
         <point x="4.9" y="9.6"/>
@@ -41085,8 +41085,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R29</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="19.7" y="8.3"/>
         <point x="18.7" y="9.0"/>
@@ -41109,12 +41109,12 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R30</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
         <point x="19.7" y="8.3"/>
-        <point x="19.7" y="9.2"/>
-        <point x="22.855" y="10.24"/>
+        <point x="19.7" y="9.0"/>
+        <point x="22.855" y="10.14"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -41133,12 +41133,12 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R31</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
-        <point x="14.9" y="8.2"/>
-        <point x="14.9" y="9.1"/>
-        <point x="15.295" y="22.82"/>
+        <point x="14.9" y="8.3"/>
+        <point x="14.9" y="8.9"/>
+        <point x="15.295" y="22.77"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -41157,12 +41157,12 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R32</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="8.5" unit="mm"/>
+      <width value="3.0" unit="mm"/>
       <points>
-        <point x="15.8" y="8.2"/>
-        <point x="15.7" y="9.0"/>
-        <point x="14.385" y="22.71"/>
+        <point x="15.8" y="8.3"/>
+        <point x="15.8" y="8.8"/>
+        <point x="16.195" y="22.72"/>
       </points>
       <bodyColor hex="e0c68b"/>
       <borderColor hex="a59268"/>
@@ -41189,8 +41189,8 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.passive.Resistor>
       <name>R7</name>
       <alpha>127</alpha>
-      <length value="10.0" unit="mm"/>
-      <width value="3.5" unit="mm"/>
+      <length value="9.02" unit="mm"/>
+      <width value="3.76" unit="mm"/>
       <points>
         <point x="14.7" y="5.7"/>
         <point x="14.7" y="6.3"/>
@@ -41350,8 +41350,58 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <value value="470.0" unit="pF"/>
       <voltage>_63V</voltage>
     </diylc.passive.RadialCeramicDiskCapacitor>
+    <diylc.passive.Resistor>
+      <name>R34</name>
+      <alpha>127</alpha>
+      <length value="9.02" unit="mm"/>
+      <width value="3.76" unit="mm"/>
+      <points>
+        <point x="17.3" y="8.3"/>
+        <point x="17.3" y="8.9"/>
+        <point x="14.505" y="13.67"/>
+      </points>
+      <bodyColor hex="82cffd"/>
+      <borderColor hex="5b90b1"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <value value="10.0" unit="K"/>
+      <power>HALF</power>
+      <colorCode>_5_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.passive.Resistor>
+      <name>R35</name>
+      <alpha>127</alpha>
+      <length value="9.02" unit="mm"/>
+      <width value="3.76" unit="mm"/>
+      <points>
+        <point x="20.6" y="8.3"/>
+        <point x="20.6" y="8.9"/>
+        <point x="15.08" y="18.025"/>
+      </points>
+      <bodyColor hex="82cffd"/>
+      <borderColor hex="5b90b1"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <value value="22.0" unit="K"/>
+      <power>HALF</power>
+      <colorCode>_5_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
   </components>
-  <groups/>
+  <groups>
+    <set/>
+  </groups>
   <lockedLayers/>
   <lockedComponents>
     <diylc.misc.Image reference="../../components/diylc.misc.Image"/>
