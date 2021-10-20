@@ -2,7 +2,7 @@
 <project>
   <fileVersion>
     <major>4</major>
-    <minor>8</minor>
+    <minor>17</minor>
     <build>0</build>
   </fileVersion>
   <title>New Project</title>
@@ -566,6 +566,7 @@
       <name>Img1</name>
       <alpha>25</alpha>
       <point x="0.5" y="0.0"/>
+      <orientation>DEFAULT</orientation>
       <data>iVBORw0KGgoAAAANSUhEUgAACQIAAAT3CAYAAAC4658YAAAgAElEQVR4nOy9ebQkV33n+b2x5v72
 V3uVqlSlXaAVhEBAs1gYGMA2Bmw8TB9wu+32aQ5/9CzdPox97B4M9uk/Gtu47QFmjHtkG9vdxh4D
 BgmQjUDIWGhfrAUtVar17bnFeufcJTIjo96ThAohTen7eScVGZGRsdy4Ecmp++H7E1JKCUIIeR5Q
@@ -41398,6 +41399,24 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <colorCode>_5_BAND</colorCode>
       <shape>Standard</shape>
     </diylc.passive.Resistor>
+    <diylc.connectivity.HookupWire>
+      <name>W7</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="7.815" y="7.435"/>
+        <point x="8.02" y="7.54"/>
+        <point x="8.34" y="7.635"/>
+        <point x="8.8" y="7.4"/>
+      </controlPoints2>
+      <color hex="ff3333"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
   </components>
   <groups>
     <set/>
@@ -41407,5 +41426,5 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
     <diylc.misc.Image reference="../../components/diylc.misc.Image"/>
   </lockedComponents>
   <hiddenLayers/>
-  <font name="Square721 BT Roman" size="14" style="0"/>
+  <font name="Dialog" size="14" style="0"/>
 </project>
