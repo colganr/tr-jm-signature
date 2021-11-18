@@ -13987,16 +13987,16 @@ AkLYGoJJDhIEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBoPgI
       <mount>CHASSIS</mount>
       <labelColor hex="acaca7"/>
       <controlPoints>
-        <point x="14.030730724835967" y="9.661726591336869"/>
-        <point x="14.035050195429195" y="9.414264286785663"/>
-        <point x="14.179679943066098" y="9.464064302600164"/>
-        <point x="14.267416151936818" y="9.589364594417992"/>
-        <point x="14.264746572296797" y="9.742304709565015"/>
-        <point x="14.17269089283285" y="9.864466722298395"/>
-        <point x="14.026411254242738" y="9.909188895888075"/>
-        <point x="13.881781506605835" y="9.859388880073574"/>
-        <point x="13.794045297735115" y="9.734088588255746"/>
-        <point x="13.796714877375136" y="9.581148473108723"/>
+        <point x="13.705730724835966" y="9.57672659133687"/>
+        <point x="13.710050195429194" y="9.329264286785662"/>
+        <point x="13.854679943066099" y="9.379064302600165"/>
+        <point x="13.942416151936818" y="9.504364594417993"/>
+        <point x="13.939746572296796" y="9.657304709565016"/>
+        <point x="13.84769089283285" y="9.779466722298395"/>
+        <point x="13.701411254242739" y="9.824188895888076"/>
+        <point x="13.556781506605835" y="9.774388880073573"/>
+        <point x="13.469045297735114" y="9.649088588255745"/>
+        <point x="13.471714877375137" y="9.496148473108724"/>
       </controlPoints>
     </diylc.tube.TubeSocket>
     <diylc.tube.TubeSocket>
@@ -14045,6 +14045,245 @@ AkLYGoJJDhIEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBoPgI
         <point x="10.45433674628169" y="9.493649598052475"/>
       </controlPoints>
     </diylc.tube.TubeSocket>
+    <diylc.tube.TubeSocket>
+      <name>V6</name>
+      <alpha>127</alpha>
+      <base>OCTAL</base>
+      <type></type>
+      <angle>90</angle>
+      <color hex="f7f7ef"/>
+      <electrodeLabels>1,2,3,4,5,6,7,8,9</electrodeLabels>
+      <mount>CHASSIS</mount>
+      <labelColor hex="acaca7"/>
+      <controlPoints>
+        <point x="8.3520796460177" y="9.486686665666719"/>
+        <point x="8.221010570432657" y="9.803115405551834"/>
+        <point x="8.035650906132584" y="9.617755741251763"/>
+        <point x="8.035650906132584" y="9.355617590081675"/>
+        <point x="8.221010570432657" y="9.170257925781602"/>
+        <point x="8.483148721602742" y="9.170257925781602"/>
+        <point x="8.668508385902815" y="9.355617590081675"/>
+        <point x="8.668508385902816" y="9.617755741251761"/>
+        <point x="8.483148721602742" y="9.803115405551834"/>
+      </controlPoints>
+    </diylc.tube.TubeSocket>
+    <diylc.tube.TubeSocket>
+      <name>V7</name>
+      <alpha>127</alpha>
+      <base>OCTAL</base>
+      <type></type>
+      <angle>90</angle>
+      <color hex="f7f7ef"/>
+      <electrodeLabels>1,2,3,4,5,6,7,8,9</electrodeLabels>
+      <mount>CHASSIS</mount>
+      <labelColor hex="acaca7"/>
+      <controlPoints>
+        <point x="6.776428739885115" y="9.536428739885116"/>
+        <point x="6.645359664300072" y="9.852857479770233"/>
+        <point x="6.46" y="9.66749781547016"/>
+        <point x="6.46" y="9.405359664300072"/>
+        <point x="6.645359664300072" y="9.22"/>
+        <point x="6.907497815470158" y="9.22"/>
+        <point x="7.09285747977023" y="9.405359664300072"/>
+        <point x="7.092857479770231" y="9.667497815470158"/>
+        <point x="6.907497815470158" y="9.852857479770233"/>
+      </controlPoints>
+    </diylc.tube.TubeSocket>
+    <diylc.tube.TubeSocket>
+      <name>V8</name>
+      <alpha>127</alpha>
+      <base>OCTAL</base>
+      <type></type>
+      <angle>90</angle>
+      <color hex="f7f7ef"/>
+      <electrodeLabels>1,2,3,4,5,6,7,8,9</electrodeLabels>
+      <mount>CHASSIS</mount>
+      <labelColor hex="acaca7"/>
+      <controlPoints>
+        <point x="5.236428739885115" y="9.536428739885116"/>
+        <point x="5.105359664300072" y="9.852857479770233"/>
+        <point x="4.92" y="9.66749781547016"/>
+        <point x="4.92" y="9.405359664300072"/>
+        <point x="5.105359664300072" y="9.22"/>
+        <point x="5.367497815470158" y="9.22"/>
+        <point x="5.55285747977023" y="9.405359664300072"/>
+        <point x="5.552857479770231" y="9.667497815470158"/>
+        <point x="5.367497815470158" y="9.852857479770233"/>
+      </controlPoints>
+    </diylc.tube.TubeSocket>
+    <diylc.tube.TubeSocket>
+      <name>V9</name>
+      <alpha>127</alpha>
+      <base>OCTAL</base>
+      <type></type>
+      <angle>90</angle>
+      <color hex="f7f7ef"/>
+      <electrodeLabels>1,2,3,4,5,6,7,8,9</electrodeLabels>
+      <mount>CHASSIS</mount>
+      <labelColor hex="acaca7"/>
+      <controlPoints>
+        <point x="3.423095406551781" y="9.529762073218448"/>
+        <point x="3.2920263309667384" y="9.846190813103565"/>
+        <point x="3.1066666666666665" y="9.660831148803492"/>
+        <point x="3.1066666666666665" y="9.398692997633404"/>
+        <point x="3.2920263309667384" y="9.213333333333333"/>
+        <point x="3.5541644821368243" y="9.213333333333333"/>
+        <point x="3.7395241464368962" y="9.398692997633404"/>
+        <point x="3.7395241464368976" y="9.66083114880349"/>
+        <point x="3.5541644821368243" y="9.846190813103565"/>
+      </controlPoints>
+    </diylc.tube.TubeSocket>
+    <diylc.passive.PotentiometerPanel>
+      <name>VR2</name>
+      <alpha>127</alpha>
+      <controlPoints>
+        <point x="13.27" y="1.45"/>
+        <point x="12.97" y="1.45"/>
+        <point x="12.67" y="1.45"/>
+      </controlPoints>
+      <orientation>_180</orientation>
+      <taper>LIN</taper>
+      <bodyDiameter value="1.0" unit="in"/>
+      <spacing value="0.3" unit="in"/>
+      <lugDiameter value="0.15" unit="in"/>
+      <bodyColor hex="c0c0c0"/>
+      <borderColor hex="808080"/>
+      <nutColor hex="cbd5db"/>
+      <waferColor hex="cd8500"/>
+      <type>ThroughHole</type>
+      <showShaft>false</showShaft>
+      <view>ShaftDown</view>
+    </diylc.passive.PotentiometerPanel>
+    <diylc.passive.PotentiometerPanel>
+      <name>VR3</name>
+      <alpha>127</alpha>
+      <controlPoints>
+        <point x="11.91" y="1.42"/>
+        <point x="11.61" y="1.42"/>
+        <point x="11.31" y="1.42"/>
+      </controlPoints>
+      <orientation>_180</orientation>
+      <taper>LIN</taper>
+      <bodyDiameter value="1.0" unit="in"/>
+      <spacing value="0.3" unit="in"/>
+      <lugDiameter value="0.15" unit="in"/>
+      <bodyColor hex="c0c0c0"/>
+      <borderColor hex="808080"/>
+      <nutColor hex="cbd5db"/>
+      <waferColor hex="cd8500"/>
+      <type>ThroughHole</type>
+      <showShaft>false</showShaft>
+      <view>ShaftDown</view>
+    </diylc.passive.PotentiometerPanel>
+    <diylc.passive.PotentiometerPanel>
+      <name>VR4</name>
+      <alpha>127</alpha>
+      <controlPoints>
+        <point x="10.58" y="1.43"/>
+        <point x="10.28" y="1.43"/>
+        <point x="9.98" y="1.43"/>
+      </controlPoints>
+      <orientation>_180</orientation>
+      <taper>LIN</taper>
+      <bodyDiameter value="1.0" unit="in"/>
+      <spacing value="0.3" unit="in"/>
+      <lugDiameter value="0.15" unit="in"/>
+      <bodyColor hex="c0c0c0"/>
+      <borderColor hex="808080"/>
+      <nutColor hex="cbd5db"/>
+      <waferColor hex="cd8500"/>
+      <type>ThroughHole</type>
+      <showShaft>false</showShaft>
+      <view>ShaftDown</view>
+    </diylc.passive.PotentiometerPanel>
+    <diylc.passive.PotentiometerPanel>
+      <name>REVERB SEND</name>
+      <alpha>127</alpha>
+      <controlPoints>
+        <point x="9.18" y="1.41"/>
+        <point x="8.88" y="1.41"/>
+        <point x="8.58" y="1.41"/>
+      </controlPoints>
+      <resistance value="100.0" unit="K"/>
+      <orientation>_180</orientation>
+      <taper>LOG</taper>
+      <bodyDiameter value="1.0" unit="in"/>
+      <spacing value="0.3" unit="in"/>
+      <lugDiameter value="0.15" unit="in"/>
+      <bodyColor hex="c0c0c0"/>
+      <borderColor hex="808080"/>
+      <nutColor hex="cbd5db"/>
+      <waferColor hex="cd8500"/>
+      <type>ThroughHole</type>
+      <showShaft>false</showShaft>
+      <view>ShaftDown</view>
+    </diylc.passive.PotentiometerPanel>
+    <diylc.passive.PotentiometerPanel>
+      <name>REVERB RETURN</name>
+      <alpha>127</alpha>
+      <controlPoints>
+        <point x="7.87" y="1.41"/>
+        <point x="7.57" y="1.41"/>
+        <point x="7.27" y="1.41"/>
+      </controlPoints>
+      <resistance value="100.0" unit="K"/>
+      <orientation>_180</orientation>
+      <taper>LIN</taper>
+      <bodyDiameter value="1.0" unit="in"/>
+      <spacing value="0.3" unit="in"/>
+      <lugDiameter value="0.15" unit="in"/>
+      <bodyColor hex="c0c0c0"/>
+      <borderColor hex="808080"/>
+      <nutColor hex="cbd5db"/>
+      <waferColor hex="cd8500"/>
+      <type>ThroughHole</type>
+      <showShaft>false</showShaft>
+      <view>ShaftDown</view>
+    </diylc.passive.PotentiometerPanel>
+    <diylc.passive.PotentiometerPanel>
+      <name>MASTER</name>
+      <alpha>127</alpha>
+      <controlPoints>
+        <point x="6.61" y="1.43"/>
+        <point x="6.31" y="1.43"/>
+        <point x="6.01" y="1.43"/>
+      </controlPoints>
+      <resistance value="1.0" unit="M"/>
+      <orientation>_180</orientation>
+      <taper>LOG</taper>
+      <bodyDiameter value="1.0" unit="in"/>
+      <spacing value="0.3" unit="in"/>
+      <lugDiameter value="0.15" unit="in"/>
+      <bodyColor hex="c0c0c0"/>
+      <borderColor hex="808080"/>
+      <nutColor hex="cbd5db"/>
+      <waferColor hex="cd8500"/>
+      <type>ThroughHole</type>
+      <showShaft>false</showShaft>
+      <view>ShaftDown</view>
+    </diylc.passive.PotentiometerPanel>
+    <diylc.passive.PotentiometerPanel>
+      <name>CONTOUR</name>
+      <alpha>127</alpha>
+      <controlPoints>
+        <point x="5.39" y="1.43"/>
+        <point x="5.09" y="1.43"/>
+        <point x="4.79" y="1.43"/>
+      </controlPoints>
+      <resistance value="250.0" unit="K"/>
+      <orientation>_180</orientation>
+      <taper>LOG</taper>
+      <bodyDiameter value="1.0" unit="in"/>
+      <spacing value="0.3" unit="in"/>
+      <lugDiameter value="0.15" unit="in"/>
+      <bodyColor hex="c0c0c0"/>
+      <borderColor hex="808080"/>
+      <nutColor hex="cbd5db"/>
+      <waferColor hex="cd8500"/>
+      <type>ThroughHole</type>
+      <showShaft>false</showShaft>
+      <view>ShaftDown</view>
+    </diylc.passive.PotentiometerPanel>
   </components>
   <groups/>
   <lockedLayers/>
