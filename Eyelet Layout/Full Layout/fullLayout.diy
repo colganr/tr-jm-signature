@@ -2,7 +2,7 @@
 <project>
   <fileVersion>
     <major>4</major>
-    <minor>17</minor>
+    <minor>20</minor>
     <build>0</build>
   </fileVersion>
   <title>New Project</title>
@@ -41417,6 +41417,28 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
     </diylc.connectivity.HookupWire>
+    <diylc.misc.Label>
+      <name>L1</name>
+      <point x="0.16085958595859665" y="0.4956660666066614"/>
+      <text>Corrected JM Sig Values</text>
+      <font name="ConthraxSb-Regular" size="150" style="0"/>
+      <color hex="000000"/>
+      <center>false</center>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L2</name>
+      <point x="0.16579657965796626" y="1.0007110711071108"/>
+      <text>www.TheToneGeek.com</text>
+      <font name="ConthraxSb-Regular" size="100" style="0"/>
+      <color hex="000000"/>
+      <center>false</center>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
   </components>
   <groups>
     <set/>
