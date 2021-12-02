@@ -41277,7 +41277,7 @@ YxjaeeedNzoX69at8+NFUlExnychhBBCVDNm9v+oEg6j8xYLWwAAAABJRU5ErkJggg==</data>
       <moveLabel>false</moveLabel>
       <hideShortLeads>false</hideShortLeads>
       <pinSpacing value="0.1" unit="in"/>
-      <value value="75.0" unit="pF"/>
+      <value value="750.0" unit="pF"/>
       <voltage>_63V</voltage>
     </diylc.passive.RadialCeramicDiskCapacitor>
     <diylc.passive.Resistor>
