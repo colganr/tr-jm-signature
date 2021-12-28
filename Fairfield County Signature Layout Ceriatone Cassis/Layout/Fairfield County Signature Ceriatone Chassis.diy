@@ -6179,6 +6179,15 @@ AAAAAAAAAADAiEBIEQAAAAAAAAAAAAAAAAAAAAAAAABGBEKKAAAAAAAAAAAAAAAAAAAAAAAAADAi
       <boardColor hex="cd8500"/>
       <mount>Central</mount>
     </diylc.boards.TagStrip>
+    <diylc.connectivity.SolderPad>
+      <name>Pad1</name>
+      <size value="0.09" unit="in"/>
+      <color hex="000000"/>
+      <point x="17.7" y="4.113333333333333"/>
+      <type>ROUND</type>
+      <holeSize value="0.8" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.SolderPad>
     <diylc.misc.Image>
       <name>Img1</name>
       <alpha>127</alpha>
@@ -20864,6 +20873,24 @@ AkLYGoJJDhIEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBoPgI
       <bodyColor hex="3299cc"/>
       <borderColor hex="236b8e"/>
     </diylc.electromechanical.MiniToggleSwitch>
+    <diylc.connectivity.HookupWire>
+      <name>W1</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="17.706666666666663" y="4.12"/>
+        <point x="17.481666666666666" y="4.3"/>
+        <point x="17.366666666666664" y="4.665"/>
+        <point x="17.696666666666665" y="5.065"/>
+      </controlPoints2>
+      <color hex="333333"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
     <diylc.misc.Label>
       <name>L1</name>
       <point x="2.3256450645064515" y="1.2955865586558661"/>
