@@ -21031,9 +21031,9 @@ AkLYGoJJDhIEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBoPgI
     </diylc.misc.Label>
     <diylc.misc.Label>
       <name>L3</name>
-      <point x="2.231323132313232" y="0.5405730573057305"/>
+      <point x="2.231323132313232" y="0.6405730573057304"/>
       <text>Tone-Geek</text>
-      <font name="KaufmannStd-Bold" size="200" style="0"/>
+      <font name="ConthraxSb-Regular" size="100" style="0"/>
       <color hex="000000"/>
       <center>false</center>
       <horizontalAlignment>CENTER</horizontalAlignment>
