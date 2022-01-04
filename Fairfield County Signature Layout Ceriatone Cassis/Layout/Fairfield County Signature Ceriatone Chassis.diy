@@ -20956,7 +20956,7 @@ AkLYGoJJDhIEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBoPgI
         <point x="18.005" y="9.485"/>
         <point x="16.657668025360675" y="10.294423181598972"/>
       </controlPoints2>
-      <color hex="cccccc"/>
+      <color hex="ffffff"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
@@ -23253,7 +23253,7 @@ AkLYGoJJDhIEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBoPgI
         <point x="15.159626695728464" y="10.256565427543917"/>
         <point x="16.184297171158974" y="10.439147175436728"/>
       </controlPoints2>
-      <color hex="cccccc"/>
+      <color hex="ffffff"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
