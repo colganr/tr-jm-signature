@@ -22294,7 +22294,7 @@ AkLYGoJJDhIEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBoPgI
     </diylc.connectivity.HookupWire>
     <diylc.connectivity.HookupWire>
       <name>W43</name>
-      <alpha>127</alpha>
+      <alpha>14</alpha>
       <controlPoints2>
         <point x="9.973333333333333" y="2.206666666666666"/>
         <point x="10.973333333333333" y="4.716666666666666"/>
@@ -23818,13 +23818,99 @@ AkLYGoJJDhIEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBoPgI
       <striped>true</striped>
       <stripeColor hex="cccccc"/>
     </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W105</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="13.382371933464364" y="7.704349782510876"/>
+        <point x="12.047371933464362" y="8.514349782510877"/>
+        <point x="11.674275249356537" y="9.433648848089971"/>
+        <point x="12.13397162622414" y="10.581689270869326"/>
+      </controlPoints2>
+      <color hex="0099ff"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.passive.Resistor>
+      <name>R24</name>
+      <alpha>127</alpha>
+      <length value="12.0" unit="mm"/>
+      <width value="5.0" unit="mm"/>
+      <points>
+        <point x="12.50267661616919" y="9.556757162141894"/>
+        <point x="12.2872403150475" y="10.136564677581417"/>
+        <point x="12.394087717904078" y="9.849004378509791"/>
+      </points>
+      <bodyColor hex="e0c68b"/>
+      <borderColor hex="a59268"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>true</hideShortLeads>
+      <value value="215.0" unit="K"/>
+      <power>HALF</power>
+      <powerNew value="0.5" unit="W"/>
+      <colorCode>_4_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.passive.Resistor>
+      <name>R25</name>
+      <alpha>127</alpha>
+      <length value="12.0" unit="mm"/>
+      <width value="5.0" unit="mm"/>
+      <points>
+        <point x="11.72209596813834" y="9.564256787160643"/>
+        <point x="11.641659667016649" y="10.399064302600166"/>
+        <point x="11.68163804524269" y="9.984149020162072"/>
+      </points>
+      <bodyColor hex="e0c68b"/>
+      <borderColor hex="a59268"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>VALUE</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>true</hideShortLeads>
+      <value value="215.0" unit="K"/>
+      <power>HALF</power>
+      <powerNew value="0.5" unit="W"/>
+      <colorCode>_4_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.connectivity.HookupWire>
+      <name>W106</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="11.641659667016649" y="10.399064302600166"/>
+        <point x="11.626653667316635" y="10.57171591420429"/>
+        <point x="11.754341878587235" y="10.501889255054826"/>
+        <point x="11.989341878587236" y="10.531889255054825"/>
+      </controlPoints2>
+      <color hex="cccccc"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_26</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
   </components>
   <groups/>
   <lockedLayers/>
   <lockedComponents>
     <diylc.misc.Image reference="../../components/diylc.misc.Image[3]"/>
-    <diylc.misc.Image reference="../../components/diylc.misc.Image[2]"/>
     <diylc.misc.Image reference="../../components/diylc.misc.Image[4]"/>
+    <diylc.misc.Image reference="../../components/diylc.misc.Image[2]"/>
   </lockedComponents>
   <hiddenLayers/>
   <font name="Dialog" size="14" style="0"/>
