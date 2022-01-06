@@ -23904,6 +23904,24 @@ AkLYGoJJDhIEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBoPgI
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
     </diylc.connectivity.HookupWire>
+    <diylc.connectivity.Dot>
+      <name>Dot13</name>
+      <size value="3.0" unit="mm"/>
+      <color hex="999999"/>
+      <point x="12.48" y="9.53"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot14</name>
+      <size value="3.0" unit="mm"/>
+      <color hex="999999"/>
+      <point x="11.735" y="9.555"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot15</name>
+      <size value="3.0" unit="mm"/>
+      <color hex="999999"/>
+      <point x="14.225" y="9.13"/>
+    </diylc.connectivity.Dot>
   </components>
   <groups/>
   <lockedLayers/>
@@ -23911,6 +23929,7 @@ AkLYGoJJDhIEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBoPgI
     <diylc.misc.Image reference="../../components/diylc.misc.Image[3]"/>
     <diylc.misc.Image reference="../../components/diylc.misc.Image[4]"/>
     <diylc.misc.Image reference="../../components/diylc.misc.Image[2]"/>
+    <diylc.misc.Image reference="../../components/diylc.misc.Image"/>
   </lockedComponents>
   <hiddenLayers/>
   <font name="Dialog" size="14" style="0"/>
