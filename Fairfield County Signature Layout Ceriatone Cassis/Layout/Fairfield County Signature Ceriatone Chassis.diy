@@ -25128,7 +25128,7 @@ AkLYGoJJDhIEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBoPgI
         <point x="10.57" y="8.08"/>
         <point x="10.4" y="9.61"/>
         <point x="9.6" y="11.6"/>
-        <point x="9.07" y="11.45"/>
+        <point x="7.62" y="11.49"/>
       </controlPoints2>
       <color hex="715519"/>
       <pointCount>SEVEN</pointCount>
@@ -25149,7 +25149,7 @@ AkLYGoJJDhIEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBoPgI
         <point x="5.360359664300072" y="10.567857479770232"/>
         <point x="5.237610646915573" y="11.25"/>
         <point x="5.079195919591957" y="11.808916926014966"/>
-        <point x="9.07" y="11.45"/>
+        <point x="7.62" y="11.49"/>
       </controlPoints2>
       <color hex="0099ff"/>
       <pointCount>FOUR</pointCount>
@@ -25203,7 +25203,7 @@ AkLYGoJJDhIEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBoPgI
         <point x="6.942749017384499" y="10.644027114677932"/>
         <point x="6.67" y="11.756169634907701"/>
         <point x="7.431585272676384" y="11.465086560922666"/>
-        <point x="9.07" y="11.45"/>
+        <point x="7.62" y="11.49"/>
       </controlPoints2>
       <color hex="715519"/>
       <pointCount>FOUR</pointCount>
@@ -25309,6 +25309,85 @@ AkLYGoJJDhIEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBoPgI
       </controlPoints2>
       <color hex="0000ff"/>
       <pointCount>THREE</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_18</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W158</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="6.256177617761778" y="13.656876687668769"/>
+        <point x="5.735458222881698" y="13.790157515751575"/>
+        <point x="6.064738828001619" y="11.843438343834384"/>
+        <point x="6.394019433121539" y="9.896719171917193"/>
+        <point x="6.73330003824146" y="10.11"/>
+      </controlPoints2>
+      <color hex="715519"/>
+      <pointCount>FIVE</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_18</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W159</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="6.256177617761778" y="13.45687668766877"/>
+        <point x="4.36" y="10.700838518163204"/>
+        <point x="5.19" y="10.12"/>
+      </controlPoints2>
+      <color hex="0000ff"/>
+      <pointCount>THREE</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_18</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W160</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="6.93" y="9.16"/>
+        <point x="5.97" y="8.930838518163204"/>
+        <point x="6.043300038241459" y="7.77"/>
+      </controlPoints2>
+      <color hex="cc0033"/>
+      <pointCount>THREE</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_18</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.misc.GroundSymbol>
+      <name>GND4</name>
+      <point x="1.13" y="9.47"/>
+      <color hex="000000"/>
+      <size value="0.15" unit="in"/>
+      <type>DEFAULT</type>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.GroundSymbol>
+    <diylc.connectivity.HookupWire>
+      <name>W161</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="4.908508385902817" y="7.79"/>
+        <point x="4.865306675040838" y="8.557050093257002"/>
+        <point x="1.16" y="8.827244258748237"/>
+        <point x="1.134195919591957" y="9.468916926014964"/>
+      </controlPoints2>
+      <color hex="333333"/>
+      <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
       <lastUpdatePointIndex>-1</lastUpdatePointIndex>
