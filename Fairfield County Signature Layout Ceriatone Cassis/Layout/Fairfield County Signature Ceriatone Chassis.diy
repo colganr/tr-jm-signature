@@ -22321,11 +22321,11 @@ AkLYGoJJDhIEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBoPgI
     </diylc.connectivity.HookupWire>
     <diylc.connectivity.HookupWire>
       <name>W43</name>
-      <alpha>14</alpha>
+      <alpha>127</alpha>
       <controlPoints2>
         <point x="9.973333333333333" y="2.206666666666666"/>
         <point x="10.973333333333333" y="4.716666666666666"/>
-        <point x="13.958333333333332" y="7.246666666666666"/>
+        <point x="14.138333333333332" y="7.346666666666667"/>
         <point x="14.035" y="9.575000000000001"/>
       </controlPoints2>
       <color hex="ffffff"/>
@@ -24341,6 +24341,24 @@ AkLYGoJJDhIEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBoPgI
       <smooth>true</smooth>
       <lastUpdatePointIndex>-1</lastUpdatePointIndex>
       <gauge>_16</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W111</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="12.416425142514251" y="5.067676267626762"/>
+        <point x="12.005" y="5.94"/>
+        <point x="13.924746572296797" y="10.402304709565017"/>
+        <point x="12.930682244980556" y="13.605907511581599"/>
+      </controlPoints2>
+      <color hex="333333"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
     </diylc.connectivity.HookupWire>
