@@ -5,12 +5,6 @@ Documentation and resources for my Fairfield County Signature project. Compare t
 - Build Resources
 - BOMs and component selections
 - Corrections
-- [https://photos.app.goo.gl/VmgVuEo9qTDXYwNo8](https://photos.app.goo.gl/VmgVuEo9qTDXYwNo8 Google Photo Album "https://photos.app.goo.gl/VmgVuEo9qTDXYwNo8") Google Photo Album
+- https://photos.app.goo.gl/VmgVuEo9qTDXYwNo8 Google Photo Album
 - 1:1 PDF of the circuit boards for test fitment
 - FAQ & Conversations with builders
-
-
-
-
-
-
