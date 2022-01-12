@@ -21,3 +21,4 @@ Documentation and resources for my Fairfield County Signature project. Compare t
 You will need the following fonts to import
 - https://fontsgeek.com/fonts/Kaufmann-Std-Bold 
 - https://www.dafont.com/conthrax.font
+- https://dafonttop.com/muhaqu.font
