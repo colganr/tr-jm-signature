@@ -8,7 +8,7 @@
   <title>New Project</title>
   <author>Ryan</author>
   <width value="19.0" unit="in"/>
-  <height value="21.0" unit="in"/>
+  <height value="18.5" unit="in"/>
   <gridSpacing value="0.1" unit="in"/>
   <dotSpacing>1</dotSpacing>
   <components>
@@ -25452,14 +25452,53 @@ AkLYGoJJDhIEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBQBAQBAQBQUAQEAQEAUFAEBAEBAFBoPgI
       <horizontalAlignment>CENTER</horizontalAlignment>
       <value>16 Ohm</value>
     </diylc.misc.WrapLabel>
+    <diylc.misc.WrapLabel>
+      <name>L17</name>
+      <controlPoints>
+        <point x="13.634029548522577" y="8.144328783560823"/>
+        <point x="14.659029548522575" y="8.659328783560822"/>
+      </controlPoints>
+      <firstPoint x="13.634029548522577" y="8.144328783560823"/>
+      <secondPoint x="14.659029548522575" y="8.659328783560822"/>
+      <font name="Dialog" size="20" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <value>9AB2C1B&lt;br&gt;Tank</value>
+    </diylc.misc.WrapLabel>
+    <diylc.misc.WrapLabel>
+      <name>L18</name>
+      <controlPoints>
+        <point x="12.82" y="13.78"/>
+        <point x="13.845" y="14.295"/>
+      </controlPoints>
+      <firstPoint x="12.82" y="13.78"/>
+      <secondPoint x="13.845" y="14.295"/>
+      <font name="Dialog" size="20" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <value>SEND</value>
+    </diylc.misc.WrapLabel>
+    <diylc.misc.WrapLabel>
+      <name>L19</name>
+      <controlPoints>
+        <point x="14.05" y="13.785"/>
+        <point x="15.075" y="14.3"/>
+      </controlPoints>
+      <firstPoint x="14.05" y="13.785"/>
+      <secondPoint x="15.075" y="14.3"/>
+      <font name="Dialog" size="20" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <value>RETURN</value>
+    </diylc.misc.WrapLabel>
   </components>
   <groups/>
   <lockedLayers/>
   <lockedComponents>
     <diylc.misc.Image reference="../../components/diylc.misc.Image[4]"/>
+    <diylc.misc.Image reference="../../components/diylc.misc.Image[3]"/>
     <diylc.misc.Image reference="../../components/diylc.misc.Image[2]"/>
     <diylc.misc.Image reference="../../components/diylc.misc.Image"/>
-    <diylc.misc.Image reference="../../components/diylc.misc.Image[3]"/>
   </lockedComponents>
   <hiddenLayers/>
   <font name="Dialog" size="14" style="0"/>
