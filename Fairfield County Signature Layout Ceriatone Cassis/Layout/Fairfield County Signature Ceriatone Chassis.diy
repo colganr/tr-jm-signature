@@ -5074,8 +5074,8 @@
       <alpha>127</alpha>
       <controlPoints2>
         <point x="7.37785747977023" y="10.130359664300071"/>
-        <point x="7.228928739885115" y="12.385050869259235"/>
-        <point x="7.088928739885115" y="14.340050869259235"/>
+        <point x="8.379195919591957" y="11.426672667266727"/>
+        <point x="7.153928739885115" y="14.565050869259235"/>
         <point x="6.46" y="13.6597420742184"/>
       </controlPoints2>
       <color hex="ff0000"/>
@@ -5159,7 +5159,7 @@
       <alpha>127</alpha>
       <controlPoints2>
         <point x="5.824524146436897" y="10.126666666666667"/>
-        <point x="5.675595406551781" y="12.381357871625832"/>
+        <point x="6.355595406551782" y="10.451357871625833"/>
         <point x="6.575595406551781" y="12.726357871625833"/>
         <point x="6.456177617761778" y="13.45687668766877"/>
       </controlPoints2>
@@ -6547,6 +6547,12 @@
       <color hex="999999"/>
       <point x="6.646666666666667" y="13.66"/>
     </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot22</name>
+      <size value="3.0" unit="mm"/>
+      <color hex="999999"/>
+      <point x="10.8" y="13.845"/>
+    </diylc.connectivity.Dot>
     <diylc.connectivity.HookupWire>
       <name>W187</name>
       <alpha>127</alpha>
@@ -6756,22 +6762,22 @@
   <groups>
     <set>
       <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[6]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[4]"/>
+      <diylc.shapes.Polygon reference="../../../components/diylc.shapes.Polygon"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[10]"/>
+      <diylc.connectivity.Line reference="../../../components/diylc.connectivity.Line"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[2]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[3]"/>
       <diylc.connectivity.Line reference="../../../components/diylc.connectivity.Line[2]"/>
       <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[5]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[4]"/>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[10]"/>
-      <diylc.shapes.Polygon reference="../../../components/diylc.shapes.Polygon"/>
       <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[7]"/>
-      <diylc.connectivity.Line reference="../../../components/diylc.connectivity.Line"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[3]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[2]"/>
     </set>
   </groups>
   <lockedLayers/>
   <lockedComponents>
-    <diylc.misc.Image reference="../../components/diylc.misc.Image[2]"/>
     <diylc.misc.Image reference="../../components/diylc.misc.Image[3]"/>
     <diylc.misc.Image reference="../../components/diylc.misc.Image"/>
+    <diylc.misc.Image reference="../../components/diylc.misc.Image[2]"/>
     <diylc.misc.Image reference="../../components/diylc.misc.Image[4]"/>
   </lockedComponents>
   <hiddenLayers/>
