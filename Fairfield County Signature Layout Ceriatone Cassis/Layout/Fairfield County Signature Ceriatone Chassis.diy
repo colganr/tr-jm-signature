@@ -2642,6 +2642,25 @@
       <hideShortLeads>false</hideShortLeads>
       <style>SOLID</style>
     </diylc.connectivity.Jumper>
+    <diylc.connectivity.Jumper>
+      <name>J11</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="6.653333333333332" y="13.426666666666668"/>
+        <point x="6.66" y="13.666666666666668"/>
+        <point x="6.656666666666666" y="13.546666666666667"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <style>SOLID</style>
+    </diylc.connectivity.Jumper>
     <diylc.connectivity.HookupWire>
       <name>W48</name>
       <alpha>127</alpha>
@@ -5075,7 +5094,7 @@
         <point x="6.89785747977023" y="7.78"/>
         <point x="6.188928739885115" y="9.684691204959165"/>
         <point x="6.608928739885115" y="11.989691204959165"/>
-        <point x="6.656177617761777" y="13.656876687668769"/>
+        <point x="6.656177617761777" y="13.45687668766877"/>
       </controlPoints2>
       <color hex="ff0000"/>
       <pointCount>FOUR</pointCount>
@@ -6516,6 +6535,18 @@
       <colorCode>NONE</colorCode>
       <shape>Tubular</shape>
     </diylc.passive.Resistor>
+    <diylc.connectivity.Dot>
+      <name>Dot20</name>
+      <size value="3.0" unit="mm"/>
+      <color hex="999999"/>
+      <point x="6.653333333333332" y="13.433333333333332"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot21</name>
+      <size value="3.0" unit="mm"/>
+      <color hex="999999"/>
+      <point x="6.646666666666667" y="13.66"/>
+    </diylc.connectivity.Dot>
     <diylc.connectivity.HookupWire>
       <name>W187</name>
       <alpha>127</alpha>
