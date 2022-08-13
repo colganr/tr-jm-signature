@@ -1713,7 +1713,7 @@
       <name>L5</name>
       <point x="17.783854057297134" y="3.59206764661767"/>
       <text>COAX</text>
-      <font name="Dialog" size="14" style="0"/>
+      <font name="Dialog.plain" size="14" style="0"/>
       <color hex="000000"/>
       <center>false</center>
       <horizontalAlignment>CENTER</horizontalAlignment>
@@ -1724,7 +1724,7 @@
       <name>L4</name>
       <point x="16.965" y="3.905"/>
       <text>BUSS BAR</text>
-      <font name="Dialog" size="14" style="0"/>
+      <font name="Dialog.plain" size="14" style="0"/>
       <color hex="000000"/>
       <center>false</center>
       <horizontalAlignment>CENTER</horizontalAlignment>
@@ -2529,7 +2529,7 @@
       <name>L10</name>
       <point x="17.745" y="3.1"/>
       <text>COAX	&lt;br&gt;SHIELD</text>
-      <font name="Dialog" size="14" style="0"/>
+      <font name="Dialog.plain" size="14" style="0"/>
       <color hex="000000"/>
       <center>false</center>
       <horizontalAlignment>CENTER</horizontalAlignment>
@@ -2540,7 +2540,7 @@
       <name>L11</name>
       <point x="17.38" y="3.255"/>
       <text>COAX&lt;br&gt;CONDUCTOR</text>
-      <font name="Dialog" size="14" style="0"/>
+      <font name="Dialog.plain" size="14" style="0"/>
       <color hex="000000"/>
       <center>false</center>
       <horizontalAlignment>CENTER</horizontalAlignment>
@@ -2643,12 +2643,12 @@
       <style>SOLID</style>
     </diylc.connectivity.Jumper>
     <diylc.connectivity.Jumper>
-      <name>J11</name>
+      <name>J12</name>
       <alpha>127</alpha>
       <points>
-        <point x="6.653333333333332" y="13.426666666666668"/>
-        <point x="6.66" y="13.666666666666668"/>
-        <point x="6.656666666666666" y="13.546666666666667"/>
+        <point x="6.259999999999998" y="13.44"/>
+        <point x="6.266666666666665" y="13.68"/>
+        <point x="6.263333333333332" y="13.56"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4474,7 +4474,7 @@
       </controlPoints>
       <firstPoint x="8.884290535473227" y="8.601806659667016"/>
       <secondPoint x="9.909290535473225" y="9.116806659667015"/>
-      <font name="Dialog" size="20" style="0"/>
+      <font name="Dialog.plain" size="20" style="0"/>
       <color hex="000000"/>
       <horizontalAlignment>CENTER</horizontalAlignment>
       <value>Fender&lt;br&gt;Reverb Transformer</value>
@@ -5094,7 +5094,7 @@
         <point x="6.89785747977023" y="7.78"/>
         <point x="6.188928739885115" y="9.684691204959165"/>
         <point x="6.608928739885115" y="11.989691204959165"/>
-        <point x="6.656177617761777" y="13.45687668766877"/>
+        <point x="6.256177617761778" y="13.431876687668769"/>
       </controlPoints2>
       <color hex="ff0000"/>
       <pointCount>FOUR</pointCount>
@@ -5102,8 +5102,8 @@
       <smooth>true</smooth>
       <lastUpdatePointIndex>-1</lastUpdatePointIndex>
       <gauge>_18</gauge>
-      <striped>false</striped>
-      <stripeColor hex="ffff00"/>
+      <striped>true</striped>
+      <stripeColor hex="660000"/>
     </diylc.connectivity.HookupWire>
     <diylc.connectivity.HookupWire>
       <name>W143</name>
@@ -5160,7 +5160,7 @@
       <controlPoints2>
         <point x="5.824524146436897" y="10.126666666666667"/>
         <point x="6.355595406551782" y="10.451357871625833"/>
-        <point x="6.575595406551781" y="12.726357871625833"/>
+        <point x="6.660595406551781" y="12.546357871625833"/>
         <point x="6.456177617761778" y="13.45687668766877"/>
       </controlPoints2>
       <color hex="ff0000"/>
@@ -5374,10 +5374,10 @@
       <name>W158</name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="6.256177617761778" y="13.656876687668769"/>
-        <point x="5.735458222881698" y="13.790157515751575"/>
-        <point x="6.064738828001619" y="11.843438343834384"/>
-        <point x="6.394019433121539" y="9.896719171917193"/>
+        <point x="6.641177617761778" y="13.656876687668769"/>
+        <point x="8.050458222881698" y="12.750157515751575"/>
+        <point x="6.969738828001619" y="11.913438343834384"/>
+        <point x="5.889019433121539" y="11.076719171917194"/>
         <point x="6.73330003824146" y="10.11"/>
       </controlPoints2>
       <color hex="715519"/>
@@ -5393,7 +5393,7 @@
       <name>W159</name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="6.256177617761778" y="13.45687668766877"/>
+        <point x="6.656177617761777" y="13.451876687668769"/>
         <point x="4.36" y="10.700838518163204"/>
         <point x="5.19" y="10.12"/>
       </controlPoints2>
@@ -6073,7 +6073,7 @@
       </controlPoints>
       <firstPoint x="10.97" y="13.86"/>
       <secondPoint x="11.995" y="14.375"/>
-      <font name="Dialog" size="20" style="0"/>
+      <font name="Dialog.plain" size="20" style="0"/>
       <color hex="000000"/>
       <horizontalAlignment>CENTER</horizontalAlignment>
       <value>4 Ohm</value>
@@ -6086,7 +6086,7 @@
       </controlPoints>
       <firstPoint x="11.6" y="14.14"/>
       <secondPoint x="12.625" y="14.655"/>
-      <font name="Dialog" size="20" style="0"/>
+      <font name="Dialog.plain" size="20" style="0"/>
       <color hex="000000"/>
       <horizontalAlignment>CENTER</horizontalAlignment>
       <value>8 Ohm</value>
@@ -6099,7 +6099,7 @@
       </controlPoints>
       <firstPoint x="12.19" y="13.91"/>
       <secondPoint x="13.215" y="14.425"/>
-      <font name="Dialog" size="20" style="0"/>
+      <font name="Dialog.plain" size="20" style="0"/>
       <color hex="000000"/>
       <horizontalAlignment>CENTER</horizontalAlignment>
       <value>16 Ohm</value>
@@ -6112,7 +6112,7 @@
       </controlPoints>
       <firstPoint x="13.634029548522577" y="8.144328783560823"/>
       <secondPoint x="14.659029548522575" y="8.659328783560822"/>
-      <font name="Dialog" size="20" style="0"/>
+      <font name="Dialog.plain" size="20" style="0"/>
       <color hex="000000"/>
       <horizontalAlignment>CENTER</horizontalAlignment>
       <value>9AB2C1B&lt;br&gt;Tank</value>
@@ -6125,7 +6125,7 @@
       </controlPoints>
       <firstPoint x="12.82" y="13.78"/>
       <secondPoint x="13.845" y="14.295"/>
-      <font name="Dialog" size="20" style="0"/>
+      <font name="Dialog.plain" size="20" style="0"/>
       <color hex="000000"/>
       <horizontalAlignment>CENTER</horizontalAlignment>
       <value>SEND</value>
@@ -6138,7 +6138,7 @@
       </controlPoints>
       <firstPoint x="14.05" y="13.785"/>
       <secondPoint x="15.075" y="14.3"/>
-      <font name="Dialog" size="20" style="0"/>
+      <font name="Dialog.plain" size="20" style="0"/>
       <color hex="000000"/>
       <horizontalAlignment>CENTER</horizontalAlignment>
       <value>RETURN</value>
@@ -6536,18 +6536,6 @@
       <shape>Tubular</shape>
     </diylc.passive.Resistor>
     <diylc.connectivity.Dot>
-      <name>Dot20</name>
-      <size value="3.0" unit="mm"/>
-      <color hex="999999"/>
-      <point x="6.653333333333332" y="13.433333333333332"/>
-    </diylc.connectivity.Dot>
-    <diylc.connectivity.Dot>
-      <name>Dot21</name>
-      <size value="3.0" unit="mm"/>
-      <color hex="999999"/>
-      <point x="6.646666666666667" y="13.66"/>
-    </diylc.connectivity.Dot>
-    <diylc.connectivity.Dot>
       <name>Dot22</name>
       <size value="3.0" unit="mm"/>
       <color hex="999999"/>
@@ -6561,6 +6549,18 @@
       <type>DEFAULT</type>
       <orientation>DEFAULT</orientation>
     </diylc.misc.GroundSymbol>
+    <diylc.connectivity.Dot>
+      <name>Dot23</name>
+      <size value="3.0" unit="mm"/>
+      <color hex="999999"/>
+      <point x="6.259999999999998" y="13.446666666666665"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot24</name>
+      <size value="3.0" unit="mm"/>
+      <color hex="999999"/>
+      <point x="6.253333333333333" y="13.673333333333332"/>
+    </diylc.connectivity.Dot>
     <diylc.connectivity.HookupWire>
       <name>W187</name>
       <alpha>127</alpha>
@@ -6731,7 +6731,7 @@
       </controlPoints>
       <firstPoint x="5.871953652317384" y="8.05185915704215"/>
       <secondPoint x="6.896953652317384" y="8.566859157042149"/>
-      <font name="Dialog" size="20" style="0"/>
+      <font name="Dialog.plain" size="20" style="0"/>
       <color hex="000000"/>
       <horizontalAlignment>CENTER</horizontalAlignment>
       <value>Fender Choke</value>
@@ -6766,7 +6766,7 @@
       </controlPoints>
       <firstPoint x="9.371786410679467" y="9.116804409779512"/>
       <secondPoint x="10.396786410679468" y="9.63180440977951"/>
-      <font name="Dialog" size="20" style="0"/>
+      <font name="Dialog.plain" size="20" style="0"/>
       <color hex="000000"/>
       <horizontalAlignment>CENTER</horizontalAlignment>
       <value>Fender 100W&lt;br&gt;Output Transformer</value>
@@ -6779,7 +6779,7 @@
       </controlPoints>
       <firstPoint x="6.4419379031048445" y="8.721823908804561"/>
       <secondPoint x="7.466937903104845" y="9.236823908804558"/>
-      <font name="Dialog" size="20" style="0"/>
+      <font name="Dialog.plain" size="20" style="0"/>
       <color hex="000000"/>
       <horizontalAlignment>CENTER</horizontalAlignment>
       <value>Fender 100W&lt;br&gt;Output Transformer</value>
@@ -6787,25 +6787,25 @@
   </components>
   <groups>
     <set>
-      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[10]"/>
-      <diylc.connectivity.Line reference="../../../components/diylc.connectivity.Line[2]"/>
-      <diylc.shapes.Polygon reference="../../../components/diylc.shapes.Polygon"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[3]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[5]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[7]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[6]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[4]"/>
-      <diylc.connectivity.Line reference="../../../components/diylc.connectivity.Line"/>
       <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[2]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[7]"/>
+      <diylc.connectivity.Line reference="../../../components/diylc.connectivity.Line[2]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[3]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[6]"/>
+      <diylc.connectivity.Line reference="../../../components/diylc.connectivity.Line"/>
+      <diylc.shapes.Ellipse reference="../../../components/diylc.shapes.Ellipse[10]"/>
+      <diylc.shapes.Polygon reference="../../../components/diylc.shapes.Polygon"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[4]"/>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[5]"/>
     </set>
   </groups>
   <lockedLayers/>
   <lockedComponents>
     <diylc.misc.Image reference="../../components/diylc.misc.Image"/>
+    <diylc.misc.Image reference="../../components/diylc.misc.Image[2]"/>
     <diylc.misc.Image reference="../../components/diylc.misc.Image[3]"/>
     <diylc.misc.Image reference="../../components/diylc.misc.Image[4]"/>
-    <diylc.misc.Image reference="../../components/diylc.misc.Image[2]"/>
   </lockedComponents>
   <hiddenLayers/>
-  <font name="Dialog" size="14" style="0"/>
+  <font name="Dialog.plain" size="14" style="0"/>
 </project>
